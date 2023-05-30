@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For DxlSlave
+####################################### 
+# Object
+#######################################
+
+
+DxlMaster	KEYWORD1
+DynamixelMotor	KEYWORD1
+DynamixelDevice	KEYWORD1
+DynamixelConsole	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+begin	KEYWORD2
+wheelMode	KEYWORD2 
+jointMode	KEYWORD2
+enableTorque	KEYWORD2
+speed	KEYWORD2
+goalPosition	KEYWORD2 
+led	KEYWORD2
+currentPosition	KEYWORD2 
+getCurrentPosition	KEYWORD2
+setComplianceMargins	KEYWORD2 
+getComplianceMargins	KEYWORD2
+isMoving	KEYWORD2
+loop	KEYWORD2
+init	KEYWORD2 
+status	KEYWORD2
+id	KEYWORD2
+changeId	KEYWORD2
+statusReturnLevel	KEYWORD2 
+model	KEYWORD2
+firmware             KEYWORD2 
+communicationSpeed   KEYWORD2
+read                 KEYWORD2 
+write                KEYWORD2
+regWrite             KEYWORD2
+syncWrite            KEYWORD2
+
+ping   KEYWORD2 
+action            KEYWORD2
+reset            KEYWORD2
